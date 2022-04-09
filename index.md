@@ -23,7 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-### test
+### A bit about my self
+Hi, my name is Kevin, currently studying computer science in NTU
 
 [Link](url) and ![Image](src)
 ```
